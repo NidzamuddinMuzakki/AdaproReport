@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AdaproReport/precache-manifest.c21c3bcda8d1c39e020d635af27a7fe2.js"
+  "/AdaproReport/precache-manifest.a806991987e61c88b5d563c2537b4bf2.js"
 );
 
 self.addEventListener('message', (event) => {
