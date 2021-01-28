@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c065ab9052ebc40eff64870bbac81ee8",
+    "revision": "bf6064ef0e5a7b75606e1783dc0c0045",
     "url": "/AdaproReport/index.html"
   },
   {
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AdaproReport/static/js/23.44c8fe1c.chunk.js"
   },
   {
-    "revision": "49467f37c20328a2fff3",
-    "url": "/AdaproReport/static/js/24.68866115.chunk.js"
+    "revision": "2c70f9f5fe10222f237b",
+    "url": "/AdaproReport/static/js/24.45a4b368.chunk.js"
   },
   {
     "revision": "31a62c14796b33aff385",
@@ -176,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AdaproReport/static/js/main.e7a5c70f.chunk.js"
   },
   {
-    "revision": "b38de31742772652bdcf",
-    "url": "/AdaproReport/static/js/runtime~main.111c967c.js"
+    "revision": "1c6be515bdf5b7ecd4d5",
+    "url": "/AdaproReport/static/js/runtime~main.9ae6a02d.js"
   },
   {
     "revision": "0087dce419a7376eb06c837f740d31eb",
